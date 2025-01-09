@@ -2,6 +2,8 @@
 
 > *An application that establishes a stable Client-Server connection implementing a custom protocol for managing and sharing "comptines" with support for file uploads and multi-threaded connections.*
 
+---
+
 ## 🌟 Highlights
 
 - Multithreaded server for handling multiple client connections simultaneously.
@@ -11,6 +13,8 @@
 - Real-time updates with a catalog of available comptines.
 - Robust error handling and clean client-server interaction.
 
+---
+
 ## ℹ️ Overview
 
 **Wikicomptine** is a C-based program designed to establish a stable server-client connection. The project focuses on allowing clients to interact with "comptine" files hosted on a central server. Clients can edit and add to these files, with all changes reflected in real time. The server supports multi-threading to handle multiple client requests concurrently.
@@ -18,8 +22,11 @@
 The program leverages efficient data structures to handle data manipulation, ensuring that operations like adding or editing files are performed in a performant manner. The server can handle multiple client connections simultaneously, making it a scalable solution for collaborative environments.
 
 ### ✍️ Author
+**John-Michael JENY JEYARAJ**  
+[GitHub Profile](https://github.com/JMJJ-projects)  
+[LinkedIn Profile](https://www.linkedin.com/in/jmjj/)
 
-Developed by [John-Michael JENY JEYARAJ](https://github.com/johnmichaeljeyaraj)
+---
 
 ## ⬇️ Installation
 
@@ -29,6 +36,8 @@ Developed by [John-Michael JENY JEYARAJ](https://github.com/johnmichaeljeyaraj)
 ```bash
 make
 ```
+
+---
 
 ## 🚀 Usage
 
@@ -54,6 +63,7 @@ For the Client:
 
 Clients can then interact with the server, viewing and editing "comptine" files.
 
+---
 
 ## 💭 Feedback and Contributing
 
