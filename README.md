@@ -1,4 +1,4 @@
-# 📦 Stable Server-Client Connection and Data Structure Implementation
+# 📦 Wikicomptine
 
 > *An application that establishes a stable Client-Server connection implementing a custom protocol for managing and sharing "comptines" with support for file uploads and multi-threaded connections.*
 
