@@ -8,7 +8,7 @@
 
 - Multithreaded server for handling multiple client connections simultaneously.
 - Allows clients to view, edit, upload and download "comptine" files on the server
-- Utilizes data structures to manage and handle file data efficiently
+- Utilises data structures to manage and handle file data efficiently
 - Supports concurrent client connections and file management
 - Real-time updates with a catalog of available comptines.
 - Robust error handling and clean client-server interaction.
